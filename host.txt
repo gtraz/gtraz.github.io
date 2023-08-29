@@ -1,1 +1,8 @@
-149.28.138.71 www.growtopia1.com 149.28.138.71 www.growtopia2.com 149.28.138.71 growtopia1.com 149.28.138.71 growtopia2.com 149.28.138.71 www.a1966.dscb.akamai.net 149.28.138.71 www.serverdata-1872511025.us-east-1.elb.amazonaws.com 149.28.138.71 serverdata-1872511025.us-east-1.elb.amazonaws.com 149.28.138.71 a1966.dscb.akamai.net
+149.28.138.71 www.growtopia1.com
+149.28.138.71 www.growtopia2.com
+149.28.138.71 growtopia1.com
+149.28.138.71 growtopia2.com
+149.28.138.71 www.a1966.dscb.akamai.net
+149.28.138.71 www.serverdata-1872511025.us-east-1.elb.amazonaws.com
+149.28.138.71 serverdata-1872511025.us-east-1.elb.amazonaws.com
+149.28.138.71 a1966.dscb.akamai.net
